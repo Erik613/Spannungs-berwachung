@@ -26,7 +26,7 @@ Der Hardwareteil wird über USB an den PC verbunden. So bekommt die Software die
 Wird ein Schwellenwert bei der Messung unterschritten, wird eine Abschlussmeldung in das Dokument geschrieben. Bei vorzeitigem Beenden wird eine Fehlermeldung dokumentiert.
 
 ###	Entwurfsdokumentation
- platzhalter
+![Schaltplan](https://github.com/Erik613/Spannungsueberwachung/blob/master/img/Schaltplan.png)
  
  
 ### Optionale Features
